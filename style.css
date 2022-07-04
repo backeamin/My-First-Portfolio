@@ -1,0 +1,73 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F4E7D7;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.color_change{
+    color: orangered;
+}
+.simple{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half{
+    width: 50%;
+    padding-left: 10%;
+}
+.half img{
+    width: 67%;
+    padding-top: 5%;
+}
+.link_button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato, red);
+    padding: 9px 30px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.section_one{
+    background-image: url(images/bg\ s1.jpg);
+    height: auto;
+}
+.alada{
+    padding-top: 120px;
+    padding-right: 100px;
+    padding-left: 0;
+}
+.section_tow{
+    background-image: url(images/bg\ s2.jpg);
+    background-position: right;
+    height: auto;
+}
+.section_three{
+    margin-top: 50px;
+    background-image: url(images/bg\ s3.jpg);
+    background-position: left;
+}
+.dev_video{
+    width: 40%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0 20px 10px 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+}
+#developer{
+    border-left: 5px solid tomato;
+}
+#video{
+    border-left: 5px solid brown;
+}
+footer p{
+    text-align: center;
+}
