@@ -37,6 +37,7 @@ h2{
 .section_one{
     background-image: url(images/bg\ s1.jpg);
     height: auto;
+    background-repeat: no-repeat;
 }
 .alada{
     padding-top: 120px;
@@ -47,6 +48,7 @@ h2{
     background-image: url(images/bg\ s2.jpg);
     background-position: right;
     height: auto;
+    background-repeat: no-repeat;
 }
 .section_three{
     margin-top: 50px;
