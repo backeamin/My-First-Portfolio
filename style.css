@@ -52,6 +52,7 @@ h2{
     margin-top: 50px;
     background-image: url(images/bg\ s3.jpg);
     background-position: left;
+    background-repeat: no-repeat;
 }
 .dev_video{
     width: 40%;
